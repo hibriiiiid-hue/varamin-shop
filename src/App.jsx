@@ -1,1 +1,0 @@
-export default function App(){return <h1>Varamin Shop – React Vite Template</h1>;}
